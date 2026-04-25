@@ -4,7 +4,7 @@
 
 ## 🚀 Live Site
 
-Hosted on GitHub Pages: `https://<your-username>.github.io/everything-all-at-once/`
+Hosted on GitHub Pages: `https://pulkit2007.github.io/EveythingAllAtOnce/`
 
 ---
 
